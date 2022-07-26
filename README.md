@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![johannchopin's SO profile]([https://stackoverflow-readme-profile.johannchopin.fr/dark/7924573)](https://stackoverflow-readme-profile.johannchopin.fr/profile/7924573)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+
+[![stackoverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/7924573)](https://stackoverflow.com/users/7924573/tschomacker)
