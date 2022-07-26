@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/dark/7924573)](https://github.com/johannchopin/stackoverflow-readme-profile)
